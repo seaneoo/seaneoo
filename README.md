@@ -1,3 +1,5 @@
+[![Visits Badge](https://badges.pufler.dev/visits/seaneoo/seaneoo)](https://badges.pufler.dev)
+
 ### Hey there! 👋
 
 I am Sean O'Connor (he/him), a full stack hobbyist developer from the gorgeous Denver metro area in Colorado. When I am not at my day job I love to program-- working on my small projects, researching new tech, or advancing my knowledge. Feel free to shoot me an email me at **so (at) seano.dev** if you want to chat!
