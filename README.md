@@ -7,7 +7,6 @@ I am Sean O'Connor (he/him), a full stack hobbyist developer from the gorgeous D
 ### 🔭 Some of my projects ...
 - [seano.dev](https://www.seano.dev/) - my personal website, made with Next.js.
 - [anibl.co](https://anibl.co/) - a fairly straight forward url shortening service made with Express and MongoDB.
-- [Blackjack](https://github.com/seaneoo/blackjack) - a desktop app made with Electron to play the popular casino game, blackjack.
 - [Blocky Warrior](https://seano.itch.io/blocky-warrior) - a 48 hour game jam project made in Unity3d.
 
 ### 📫 How to reach me: ...
