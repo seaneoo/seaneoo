@@ -7,6 +7,7 @@ I am Sean O'Connor (he/him), a full stack hobbyist developer from the gorgeous D
 ### 🔭 Some of my projects ...
 - [seano.dev](https://www.seano.dev/) - my personal website, made with Next.js.
 - [anibl.co](https://anibl.co/) - a fairly straight forward url shortening service made with Express and MongoDB.
+- [Steam Browser](https://addons.mozilla.org/en-US/firefox/addon/steam-browser/) - a Firefox and Chromium extension to open Steam pages in the desktop app.
 - [Blocky Warrior](https://seano.itch.io/blocky-warrior) - a 48 hour game jam project made in Unity3d.
 
 ### 📫 How to reach me: ...
