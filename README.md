@@ -11,5 +11,5 @@ I am Sean O'Connor (he/him/his), a full stack hobbyist developer from the gorgeo
 
 ### 📬 How to reach me ...
 
-- [Email](mailto:so@seano.dev)
+- [Email](mailto:&#115;&#111;	&#64;&#115;&#101;&#97;&#110;&#111;&#46;&#100;&#101;&#118;)
 - [LinkedIn](https://www.linkedin.com/in/seaneoo/)
