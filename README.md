@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I am Sean O'Connor (he/him/his), a full stack hobbyist developer from the gorgeous Denver metro area in Colorado. Primarily I work with JavaScript/TypeScript but I love to explore other languages such as Java and C#.
+I am Sean O'Connor (he/him/his), a full stack hobbyist developer from the gorgeous Denver metro area in Colorado. Primarily I work with JavaScript/TypeScript but I do love going back to my roots and working with Java every now and then :-).
 
 ### 🔭 Some of my projects ...
 
