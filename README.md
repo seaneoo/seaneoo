@@ -18,3 +18,4 @@ Currently, I am learning the fundamentals of C++ while in school.
 - [Website](https://seano.dev/)
 - [Email](mailto:&#115;&#111;&#64;&#115;&#101;&#97;&#110;&#111;&#46;&#100;&#101;&#118;)
 - [LinkedIn](https://www.linkedin.com/in/seaneoo/)
+- [npm](https://www.npmjs.com/~seaneoo)
