@@ -12,6 +12,7 @@ Currently, I am learning the fundamentals of C++ while in school.
 - [Book CLI](https://github.com/seaneoo/book-cli/) - a command line interface for looking up details on books.
 - [Steam Browser](https://addons.mozilla.org/en-US/firefox/addon/steam-browser/) - a Firefox and Chromium extension to open Steam pages in the desktop app.
 - [Blocky Warrior](https://seano.itch.io/blocky-warrior) - a 48 hour game jam project made in Unity3d.
+- [WPIT](https://github.com/seaneoo/wpit/) - a Minecraft mod, written in Java.
 
 ### 📬 My links ...
 
