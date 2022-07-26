@@ -12,4 +12,4 @@ I am Sean O'Connor (he/him/his), a front end hobbyist developer from the gorgeou
 ### 📬 My links ...
 
 - [Website](https://seano.dev/)
-- [Email](mailto:&#115;&#111;&#64;&#115;&#101;&#97;&#110;&#111;&#46;&#100;&#101;&#118;
+- [Email](mailto:&#115;&#111;&#64;&#115;&#101;&#97;&#110;&#111;&#46;&#100;&#101;&#118;)
