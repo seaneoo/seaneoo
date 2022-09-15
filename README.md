@@ -2,7 +2,7 @@
 
 ### Hey there! 👋
 
-I am Sean O'Connor (he/him/his), a front end hobbyist developer from the gorgeous Denver metro area in Colorado.
+I am Sean O'Connor (he/him/his), a student and web developer from the gorgeous Denver metro area in Colorado.
 
 ### 🔭 Some of my projects ...
 
