@@ -6,7 +6,7 @@ I am Sean O'Connor (he/him/his), a student and web developer from the gorgeous D
 
 ### 🔭 Some of my projects ...
 
-- [Pokédex](https://github.com/seaneoo/pokedex) - Your typical Pokédex. Created with **React**, using data from PokeAPI.
+- [poke.red](https://github.com/seaneoo/poke.red) - SPA Pokédex. Created with **React**, using data from PokeAPI.
 - [Mars Weather](https://seaneoo.github.io/mars-weather/) - Website to display the current weather forecast at Mars' Gale Crater. Created with **Vanilla JS**.
 - [Countries](https://github.com/seaneoo/countries) - Single-page application to view information on the world's countries. Created with **Svelte**, using data from REST Countries.
 - [Game of Life](https://github.com/seaneoo/game-of-life) - Conway's Game of Life. Made with **Vanilla JS** and the **Canvas API**.
