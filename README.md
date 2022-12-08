@@ -6,9 +6,8 @@ I am Sean O'Connor (he/him/his), a student and web developer from the gorgeous D
 
 ### ✏️ Projects
 
-- [Hacker News+](https://github.com/seaneoo/hacker-news-plus) Alternative reader for Hacker News. Written in React with TypeScript.
-- [poke.red](https://github.com/seaneoo/poke.red) Pokédex web app. Written in React with TypeScript and uses PokeAPI.
 - [Game of Life](https://github.com/seaneoo/game-of-life) Simulating Conway's Game of Life. Written with vanilla TypeScript.
+- [WPIT (Whose Pet Is That?)](https://github.com/seaneoo/wpit) A Minecraft mod written in Java.
 
 ### 📬 Links
 
