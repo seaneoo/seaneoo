@@ -13,7 +13,6 @@
     </picture>
   </a>
   <br/>
-  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <picture>
       <source
